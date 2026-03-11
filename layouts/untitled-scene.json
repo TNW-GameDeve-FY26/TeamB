@@ -273,6 +273,67 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "TreeObject1",
+      "persistentUuid": "8aef9509-29b0-4401-b212-39cf68355176",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "TreeObject2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 10
+                      },
+                      {
+                        "x": 228,
+                        "y": 10
+                      },
+                      {
+                        "x": 228,
+                        "y": 267
+                      },
+                      {
+                        "x": 6,
+                        "y": 267
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -289,6 +350,9 @@
       },
       {
         "objectName": "RockObject"
+      },
+      {
+        "objectName": "TreeObject1"
       }
     ]
   },

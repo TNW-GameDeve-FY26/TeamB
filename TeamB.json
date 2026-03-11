@@ -133,6 +133,30 @@
         "name": "AmbientObjectsPilgrim2",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "pxArt (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pxArt (3).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "TreeObject1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TreeObject1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "TreeObject2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TreeObject2.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
