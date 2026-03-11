@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 251,
+    "build": 261,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -99,6 +99,38 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "SSD",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "AmbientObjectsPilgrim.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AmbientObjectsPilgrim.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/AmbientObjectsPilgrim.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "AmbientObjectsPilgrim",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "AmbientObjectsPilgrim2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AmbientObjectsPilgrim2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/AmbientObjectsPilgrim2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "AmbientObjectsPilgrim2",
         "smoothed": true,
         "userAdded": false
       }
