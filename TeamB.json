@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 261,
+    "build": 252,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -113,7 +113,7 @@
       {
         "file": "assets/AmbientObjectsPilgrim.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/AmbientObjectsPilgrim.png\"}",
         "name": "AmbientObjectsPilgrim",
         "smoothed": true,
         "userAdded": false
@@ -155,6 +155,22 @@
         "kind": "image",
         "metadata": "",
         "name": "TreeObject2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite2",
         "smoothed": true,
         "userAdded": false
       }
