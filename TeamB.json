@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 252,
+    "build": 261,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -173,6 +173,94 @@
         "name": "NewTiledSprite2",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "pxArt (4)-sheett.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pxArt (4)-sheett.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/pxArt (4)-sheett.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pxArt (4)-sheett",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "pxArt (4)-sheett2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pxArt (4)-sheett2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Walking.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walking",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Walking2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walking2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "pxArt (4)-sheett3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pxArt (4)-sheett3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "pxArt (4)-sheett4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pxArt (4)-sheett4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "pxArt (4)-sheett5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pxArt (4)-sheett5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WalkingLeft.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/WalkingLeft.png\"}",
+        "name": "WalkingLeft",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WalkingRight.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WalkingRight",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WalkingBackwards.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WalkingBackwards",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -185,10 +273,15 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene"
+      "referenceTo": "/layouts/inthebeninign"
     }
   ],
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/playermovement"
+    }
+  ],
   "eventsFunctionsExtensions": [],
   "externalLayouts": []
 }
