@@ -1,8 +1,8 @@
 {
   "b": 255,
   "disableInputWhenNotFocused": true,
-  "mangledName": "InTheBeninign",
-  "name": "InTheBeninign",
+  "mangledName": "Main_32Scene",
+  "name": "Main Scene",
   "r": 247,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -20,13 +20,19 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.13138826996359876,
+    "zoomFactor": 0.7130377630690525,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "interacting_true",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "instances": [
     {
       "angle": 0,
@@ -2862,8 +2868,8 @@
       "name": "Oliver_Player",
       "persistentUuid": "694223c3-f6de-480b-a0d5-19b2b01c8435",
       "width": 0,
-      "x": 608,
-      "y": 224,
+      "x": 611,
+      "y": 88,
       "zOrder": 23,
       "numberProperties": [],
       "stringProperties": [],
@@ -3132,6 +3138,8 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
           "acceleration": 10000,
           "allowDiagonals": true,
           "angleOffset": 0,
@@ -3141,9 +3149,7 @@
           "ignoreDefaultControls": false,
           "maxSpeed": 300,
           "movementAngleOffset": 0,
-          "name": "TopDownMovement",
           "rotateObject": false,
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
           "useLegacyTurnBack": false,
           "viewpoint": "TopDown"
         }
@@ -3379,6 +3385,13 @@
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
       "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "PlayerMovement"
     }
   ],
   "layers": [
