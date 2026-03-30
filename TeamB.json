@@ -261,6 +261,22 @@
         "name": "WalkingBackwards",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/stamina_background.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "stamina_background",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/stamina_background2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "stamina_background2",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
