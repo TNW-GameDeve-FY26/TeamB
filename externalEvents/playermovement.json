@@ -173,7 +173,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Dashing",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -198,6 +197,16 @@
                 "",
                 "\"w\""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "stamina",
+                ">",
+                "10"
+              ]
             }
           ],
           "actions": [
@@ -214,12 +223,12 @@
             },
             {
               "type": {
-                "value": "SetNumberVariable"
+                "value": "SetStringVariable"
               },
               "parameters": [
-                "stamina",
-                "-",
-                "1"
+                "dashing_true",
+                "=",
+                "\"yes\""
               ]
             }
           ]
@@ -244,6 +253,16 @@
                 "",
                 "\"s\""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "stamina",
+                ">",
+                "10"
+              ]
             }
           ],
           "actions": [
@@ -260,12 +279,12 @@
             },
             {
               "type": {
-                "value": "SetNumberVariable"
+                "value": "SetStringVariable"
               },
               "parameters": [
-                "stamina",
-                "-",
-                "1"
+                "dashing_true",
+                "=",
+                "\"yes\""
               ]
             }
           ]
@@ -290,6 +309,16 @@
                 "",
                 "\"a\""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "stamina",
+                ">",
+                "10"
+              ]
             }
           ],
           "actions": [
@@ -302,6 +331,16 @@
                 "-400",
                 "0",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "dashing_true",
+                "=",
+                "\"yes\""
               ]
             }
           ]
@@ -326,6 +365,16 @@
                 "",
                 "\"d\""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "stamina",
+                ">",
+                "10"
+              ]
             }
           ],
           "actions": [
@@ -339,13 +388,45 @@
                 "0",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "dashing_true",
+                "=",
+                "\"yes\""
+              ]
             }
           ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"LShift\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "dashing_true",
+                "=",
+                "\"no\""
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
