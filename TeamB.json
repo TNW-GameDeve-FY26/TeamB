@@ -277,6 +277,163 @@
         "name": "stamina_background2",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/Black Decorated Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Decorated Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/8a9f8afaf0442f49cd7d5318d31ac6117137ec91d9086e9bdd59b052a4fa71f0_Black Decorated Button_Hovered.png",
+          "name": "Black Decorated Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Black Decorated Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Decorated Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/6652cc81d33cb5485e0bf19ed2a92aac70b5c9fb45837762d094c8dbecc30d4d_Black Decorated Button_Idle.png",
+          "name": "Black Decorated Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Black Decorated Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Decorated Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/61997299d1d329fff69772b1111ba7c07b6c0a96a9a17090d2bf2cc31ff08e00_Black Decorated Button_Pressed.png",
+          "name": "Black Decorated Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/ArchitectsDaughter.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "ArchitectsDaughter.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ab812c7d15ad3474b6e55761235713b68f34374f3f064d1b8685ed46720df2f8_ArchitectsDaughter.ttf",
+          "name": "ArchitectsDaughter.ttf"
+        }
+      },
+      {
+        "file": "assets/Black Square Decorated Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Square Decorated Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f412f1600c8331cf72f89d4bd00ce33a91d18553dea6d91ae71966a24c659e9a_Black Square Decorated Button_Hovered.png",
+          "name": "Black Square Decorated Button_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Black Square Decorated Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Square Decorated Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/a33bd108a01f89ef1fe8d695b6b060e19ec466e4fce2d728ed93fb2b96ebd768_Black Square Decorated Button_Idle.png",
+          "name": "Black Square Decorated Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Black Square Decorated Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Square Decorated Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c772df82fc56543546eea5576b02f73253eaf5683120a331581f0b85664f62af_Black Square Decorated Button_Pressed.png",
+          "name": "Black Square Decorated Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/mononoki-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "mononoki-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7423149de6e486ac885567761bef3236bcdb8414d05cb0920ae7aedffdec85f9_mononoki-Regular.ttf",
+          "name": "mononoki-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/Red Button With Gold Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Gold Frame_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/efae8667310d19ec644147356eb91a417f9558f93f4ea3648611fe5a79fb0f3a_Red Button With Gold Frame_Hovered.png",
+          "name": "Red Button With Gold Frame_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Gold Frame_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Gold Frame_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4b95308670b04c19600672083409d5d39dde7096139d36a89e18111cc547835c_Red Button With Gold Frame_Idle.png",
+          "name": "Red Button With Gold Frame_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Gold Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Gold Frame_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/8914d295c54909f59b10d76edbd01797409a0f09119c3acd2576e3ce3cf378b9_Red Button With Gold Frame_Pressed.png",
+          "name": "Red Button With Gold Frame_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Roboto-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Roboto-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+          "name": "Roboto-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/NewTiledSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/lava.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "lava",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -290,6 +447,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/main-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/main-menu"
     }
   ],
   "externalEvents": [
@@ -300,8 +461,26 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalEvents/stamina"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/respawning-and-death"
     }
   ],
-  "eventsFunctionsExtensions": [],
-  "externalLayouts": []
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    }
+  ],
+  "externalLayouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/credits_1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/death_screen"
+    }
+  ]
 }

@@ -1,0 +1,180 @@
+{
+  "associatedLayout": "Main Scene",
+  "name": "respawning and death",
+  "events": [
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Respawning",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringObjectVariable"
+              },
+              "parameters": [
+                "Oliver_Player",
+                "dead",
+                "=",
+                "\"yes\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "main_level_group",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
+              },
+              "parameters": [
+                "",
+                "\"death_screen\"",
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
+              },
+              "parameters": [
+                "respawn_button",
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
+              },
+              "parameters": [
+                "main_menu_button",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Main Menu\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Dying",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Oliver_Player",
+                "lava",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringObjectVariable"
+              },
+              "parameters": [
+                "Oliver_Player",
+                "dead",
+                "=",
+                "\"yes\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "you should/i'm going to replace this with a hitbox instead of just if any pixel is in contact with lava player dies."
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SceneJustBegins"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "death_scrn",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
