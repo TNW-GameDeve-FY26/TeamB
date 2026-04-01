@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 261,
+    "build": 262,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -261,6 +261,22 @@
         "name": "WalkingBackwards",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/stamina_background.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "stamina_background",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/stamina_background2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "stamina_background2",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -280,6 +296,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalEvents/playermovement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/stamina"
     }
   ],
   "eventsFunctionsExtensions": [],

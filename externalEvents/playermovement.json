@@ -198,6 +198,16 @@
                 "",
                 "\"w\""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "stamina",
+                ">",
+                "20"
+              ]
             }
           ],
           "actions": [
@@ -210,6 +220,16 @@
                 "0",
                 "-400",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "dashing_true",
+                "=",
+                "\"yes\""
               ]
             }
           ]
@@ -234,6 +254,16 @@
                 "",
                 "\"s\""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "stamina",
+                ">",
+                "20"
+              ]
             }
           ],
           "actions": [
@@ -246,6 +276,16 @@
                 "0",
                 "400",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "dashing_true",
+                "=",
+                "\"yes\""
               ]
             }
           ]
@@ -270,6 +310,16 @@
                 "",
                 "\"a\""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "stamina",
+                ">",
+                "20"
+              ]
             }
           ],
           "actions": [
@@ -283,30 +333,18 @@
                 "0",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "dashing_true",
+                "=",
+                "\"yes\""
+              ]
             }
           ]
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [],
-          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -328,6 +366,16 @@
                 "",
                 "\"d\""
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "stamina",
+                ">",
+                "20"
+              ]
             }
           ],
           "actions": [
@@ -340,6 +388,43 @@
                 "400",
                 "0",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "dashing_true",
+                "=",
+                "\"yes\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"LShift\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "dashing_true",
+                "=",
+                "\"no\""
               ]
             }
           ]
