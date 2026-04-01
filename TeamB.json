@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 252,
+    "build": 261,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -175,83 +175,92 @@
         "userAdded": false
       },
       {
-        "file": "assets/NewSprite.png",
+        "file": "pxArt (4)-sheett.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
+        "metadata": "",
+        "name": "pxArt (4)-sheett.png",
         "smoothed": true,
         "userAdded": false
       },
       {
-        "file": "assets/NewSprite2.png",
+        "file": "assets/pxArt (4)-sheett.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite2",
+        "name": "pxArt (4)-sheett",
         "smoothed": true,
         "userAdded": false
       },
       {
-        "file": "assets/NewSprite3.png",
+        "file": "pxArt (4)-sheett2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite3",
+        "metadata": "",
+        "name": "pxArt (4)-sheett2.png",
         "smoothed": true,
         "userAdded": false
       },
       {
-        "file": "assets/NewSprite4.png",
+        "file": "assets/Walking.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite4",
+        "name": "Walking",
         "smoothed": true,
         "userAdded": false
       },
       {
-        "file": "assets/8BitOperatorPlus8Regular_Edited.png",
+        "file": "assets/Walking2.png",
         "kind": "image",
-        "metadata": "",
-        "name": "8BitOperatorPlus8Regular_Edited.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Dialog Boxes/1118dc404ecf90d73c29dbc104c1f4d91b09e8d733e10db96a51a68b6cccfb74_8BitOperatorPlus8Regular_Edited.png",
-          "name": "8BitOperatorPlus8Regular_Edited.png"
-        }
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walking2",
+        "smoothed": true,
+        "userAdded": false
       },
       {
-        "file": "assets/Border.png",
+        "file": "pxArt (4)-sheett3.png",
         "kind": "image",
         "metadata": "",
-        "name": "Border.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Dialog Boxes/05ecd64f1c91a6829602b38fba30e6ee390053c063d5c31084423ba5d3cabd14_Border.png",
-          "name": "Border.png"
-        }
+        "name": "pxArt (4)-sheett3.png",
+        "smoothed": true,
+        "userAdded": false
       },
       {
-        "file": "assets/Border2.png",
+        "file": "pxArt (4)-sheett4.png",
         "kind": "image",
         "metadata": "",
-        "name": "Border2.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Dialog Boxes/f658987acc6831462b2b708842db73eb5d455d414b0c281f1e2237c335972585_Border2.png",
-          "name": "Border2.png"
-        }
+        "name": "pxArt (4)-sheett4.png",
+        "smoothed": true,
+        "userAdded": false
       },
       {
-        "file": "assets/8BitOperatorPlus8Regular_Edited.fnt",
-        "kind": "bitmapFont",
+        "file": "pxArt (4)-sheett5.png",
+        "kind": "image",
         "metadata": "",
-        "name": "8BitOperatorPlus8Regular_Edited.fnt",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Dialog Boxes/6b410f07a3a02e721a49d41795e84b56707ef28ac4d095d55f1fd1093760e134_8BitOperatorPlus8Regular_Edited.fnt",
-          "name": "8BitOperatorPlus8Regular_Edited.fnt"
-        }
+        "name": "pxArt (4)-sheett5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WalkingLeft.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/WalkingLeft.png\"}",
+        "name": "WalkingLeft",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WalkingRight.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WalkingRight",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WalkingBackwards.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WalkingBackwards",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -264,15 +273,15 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene"
+      "referenceTo": "/layouts/main-scene"
     }
   ],
-  "externalEvents": [],
-  "eventsFunctionsExtensions": [],
-  "externalLayouts": [
+  "externalEvents": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/untitled-external-layout"
+      "referenceTo": "/externalEvents/playermovement"
     }
-  ]
+  ],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": []
 }
