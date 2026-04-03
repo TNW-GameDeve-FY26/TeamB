@@ -1,0 +1,62 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "hello?! now how did a boy of your age make it uut to a place like this and where are your parents.\n[[Answer:i cant recall how i got here but i am ever so hungry sir.|1op1]]\n[[Answer:oi i dont well know what a parent is but i do well got a hankering for a bit a grub if you dont well min sparin ome govner.|1op2]]",
+		"position": {
+			"x": 344,
+			"y": 186
+		},
+		"colorID": 8
+	},
+	{
+		"title": "1op1",
+		"tags": "",
+		"body": "well buddy if your really that hungry then why don't you come in and join us oh I'm sorry me for dinner\n[[Answer:id love to|warrning]]\n[[Answer:it would be my pleasure|warrning]]",
+		"position": {
+			"x": -42,
+			"y": 492
+		},
+		"colorID": 8
+	},
+	{
+		"title": "1op2",
+		"tags": "",
+		"body": "im sorry but i cant seem to understand what you seem to be saying but you do apper to be hungry would you like to join us for diner\n[[Answer:eul i ud go fer a cuper and a bit a grub ankits fer the oitality mate|warrning]] \n[[Answer:im sorry i dont actualy talk like that i dont know what came over me|2op1]]",
+		"position": {
+			"x": 683,
+			"y": 466
+		},
+		"colorID": 8
+	},
+	{
+		"title": "2op1",
+		"tags": "",
+		"body": "well do ya want to joins us i mean me for supper\n[[Answer:id love to|warrning]]\n[[Answer:it would be my pleasure|warrning]]",
+		"position": {
+			"x": 967,
+			"y": 758
+		},
+		"colorID": 8
+	},
+	{
+		"title": "warrning",
+		"tags": "",
+		"body": "well before you go have some food for the rode oh and remeber not to verr  off the path\n[[ answer:continue|end]] |]]",
+		"position": {
+			"x": 634,
+			"y": 1140
+		},
+		"colorID": 8
+	},
+	{
+		"title": "end",
+		"tags": "",
+		"body": "well before you go have some food for the rode oh and remeber not to verr  off the path",
+		"position": {
+			"x": 685,
+			"y": 1485
+		},
+		"colorID": 0
+	}
+]
