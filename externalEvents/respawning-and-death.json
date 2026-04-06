@@ -7,6 +7,57 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "name": "Dying",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Oliver_Player",
+                "lava",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "Oliver_Player",
+                "dead",
+                "True",
+                "\"yes\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SceneBackground"
+              },
+              "parameters": [
+                "",
+                "\"14;199;62\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
       "name": "Respawning",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -16,12 +67,12 @@
           "conditions": [
             {
               "type": {
-                "value": "StringObjectVariable"
+                "value": "BooleanObjectVariable"
               },
               "parameters": [
                 "Oliver_Player",
                 "dead",
-                "=",
+                "True",
                 "\"yes\""
               ]
             }
@@ -38,14 +89,11 @@
             },
             {
               "type": {
-                "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
+                "value": "PushScene"
               },
               "parameters": [
                 "",
-                "\"death_screen\"",
-                "0",
-                "0",
-                "0"
+                "\"death_scrn\""
               ]
             }
           ]
@@ -94,48 +142,6 @@
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": []
-        }
-      ],
-      "parameters": []
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "Dying",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Oliver_Player",
-                "lava",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetStringObjectVariable"
-              },
-              "parameters": [
-                "Oliver_Player",
-                "dead",
-                "=",
-                "\"yes\""
-              ]
-            }
-          ]
         }
       ],
       "parameters": []

@@ -434,6 +434,77 @@
         "name": "lava",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Red Button With Metal Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Metal Frame_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b22a9a1823c086427abcdbec14ef49d5a49e6999d8970476bdb7c022b62d8dcc_Red Button With Metal Frame_Hovered.png",
+          "name": "Red Button With Metal Frame_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Metal Frame_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Metal Frame_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c89bb37a1b97b101b601ba39bce50d74964264704d0644735a08c0986e122294_Red Button With Metal Frame_Idle.png",
+          "name": "Red Button With Metal Frame_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Metal Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Metal Frame_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ff00ce0a7031e00560a3844ca90fbf73a45c42c8f6659e018110fc8c45c9982e_Red Button With Metal Frame_Pressed.png",
+          "name": "Red Button With Metal Frame_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Charm-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Charm-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/668523d3d2bb73faa358e1ebafa55f43d2760f8abbe99aa15476121c1bcc7eb6_Charm-Regular.ttf",
+          "name": "Charm-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -451,6 +522,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/main-menu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/death_scrn"
     }
   ],
   "externalEvents": [
@@ -477,10 +552,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalLayouts/credits_1"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/death_screen"
     }
   ]
 }
