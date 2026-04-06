@@ -218,7 +218,7 @@
               "parameters": [
                 "Oliver_Player",
                 "0",
-                "-400",
+                "-dashing_speed",
                 ""
               ]
             },
@@ -274,7 +274,7 @@
               "parameters": [
                 "Oliver_Player",
                 "0",
-                "400",
+                "dashing_speed",
                 ""
               ]
             },
@@ -329,7 +329,7 @@
               },
               "parameters": [
                 "Oliver_Player",
-                "-400",
+                "-dashing_speed",
                 "0",
                 ""
               ]
@@ -385,7 +385,7 @@
               },
               "parameters": [
                 "Oliver_Player",
-                "400",
+                "dashing_speed",
                 "0",
                 ""
               ]
@@ -437,6 +437,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Temporary camera",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -479,6 +480,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Interaction button",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
