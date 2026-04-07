@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 1.1726229638178318,
+    "zoomFactor": 0.4057518905944076,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
@@ -2977,15 +2977,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
       "keepRatio": true,
       "layer": "",
       "name": "lava",
       "persistentUuid": "8a24d19b-1c4f-4e23-ac2e-dadce223ec68",
-      "width": 0,
-      "x": 544,
-      "y": 1504,
+      "width": 64,
+      "x": 576,
+      "y": 1376,
       "zOrder": 27,
       "numberProperties": [],
       "stringProperties": [],
@@ -3001,8 +3002,8 @@
       "name": "nausea_effect",
       "persistentUuid": "40befaa6-a996-44c0-92b8-80f877a472c9",
       "width": 1280,
-      "x": -864,
-      "y": 352,
+      "x": 0,
+      "y": 832,
       "zOrder": 28,
       "numberProperties": [],
       "stringProperties": [],
@@ -3726,7 +3727,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "NewSprite",
+          "name": "animation_lava",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -3736,7 +3737,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite2",
+                  "image": "NewSprite",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3756,16 +3757,16 @@
                         "y": 0
                       },
                       {
-                        "x": 64,
+                        "x": 32,
                         "y": 0
                       },
                       {
-                        "x": 64,
-                        "y": 64
+                        "x": 32,
+                        "y": 32
                       },
                       {
                         "x": 0,
-                        "y": 64
+                        "y": 32
                       }
                     ]
                   ]
@@ -3797,7 +3798,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite3",
+                  "image": "slow_trigger_end",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3858,7 +3859,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewTiledSprite4",
+                  "image": "nausea_background",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3919,7 +3920,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite4",
+                  "image": "slow_trigger_start",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3980,7 +3981,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite5",
+                  "image": "checkpoint",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4042,7 +4043,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite6",
+                  "image": "hotbar_background",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4104,7 +4105,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite8",
+                  "image": "apple",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
