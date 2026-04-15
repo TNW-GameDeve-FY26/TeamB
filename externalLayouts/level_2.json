@@ -76,7 +76,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "Ui",
-      "name": "secret_butch_",
+      "name": "secret_butch",
       "persistentUuid": "fdcf6161-8c0d-40a0-a890-37ed2a5e6095",
       "width": 0,
       "x": 434,
@@ -779,7 +779,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.28172599320795644,
+    "zoomFactor": 0.21607397323875482,
     "windowMask": false,
     "selectedLayer": ""
   }
