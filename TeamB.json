@@ -3,7 +3,11 @@
   "gdVersion": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "build": 262,
+=======
+    "build": 252,
+>>>>>>> parent of 0df7687 (arronn kinad buggy)
 =======
     "build": 252,
 >>>>>>> parent of 0df7687 (arronn kinad buggy)
@@ -563,6 +567,7 @@
         "name": "NormalTree.png",
         "smoothed": true,
         "userAdded": false
+<<<<<<< HEAD
       },
       {
         "file": "LightBrownPath.png",
@@ -759,6 +764,8 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/971c74ddfb7396b4a871d3949e0970d50be470c636b91142362c15a3431ed63c_CartoonSmoke.png",
           "name": "CartoonSmoke.png"
         }
+=======
+>>>>>>> parent of 0df7687 (arronn kinad buggy)
 =======
 >>>>>>> parent of 0df7687 (arronn kinad buggy)
 =======
