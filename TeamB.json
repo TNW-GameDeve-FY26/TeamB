@@ -1,7 +1,11 @@
 {
   "firstLayout": "",
   "gdVersion": {
+<<<<<<< HEAD
     "build": 262,
+=======
+    "build": 252,
+>>>>>>> parent of 0df7687 (arronn kinad buggy)
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -537,6 +541,7 @@
         "name": "NewSprite",
         "smoothed": true,
         "userAdded": false
+<<<<<<< HEAD
       },
       {
         "file": "NeonGreenTree.png",
@@ -749,6 +754,8 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/971c74ddfb7396b4a871d3949e0970d50be470c636b91142362c15a3431ed63c_CartoonSmoke.png",
           "name": "CartoonSmoke.png"
         }
+=======
+>>>>>>> parent of 0df7687 (arronn kinad buggy)
       }
     ]
   },

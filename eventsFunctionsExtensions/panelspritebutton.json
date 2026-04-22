@@ -1,7 +1,10 @@
 {
   "author": "",
   "category": "User interface",
+<<<<<<< HEAD
   "dimension": "2D",
+=======
+>>>>>>> parent of 0df7687 (arronn kinad buggy)
   "extensionNamespace": "",
   "fullName": "Labeled button",
   "gdevelopVersion": ">=5.5.230",
@@ -60,14 +63,6 @@
       "objectGroups": []
     }
   ],
-  "eventsFunctionsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "functionName": "IsInGameEdition"
-      }
-    ]
-  },
   "eventsBasedBehaviors": [
     {
       "description": "The finite state machine used internally by the button object.",
@@ -1168,41 +1163,6 @@
           "objectGroups": []
         }
       ],
-      "eventsFunctionsFolderStructure": {
-        "folderName": "__ROOT",
-        "children": [
-          {
-            "functionName": "doStepPostEvents"
-          },
-          {
-            "functionName": "onDeActivate"
-          },
-          {
-            "functionName": "ResetState"
-          },
-          {
-            "functionName": "IsIdle"
-          },
-          {
-            "functionName": "IsClicked"
-          },
-          {
-            "functionName": "IsHovered"
-          },
-          {
-            "functionName": "IsFocused"
-          },
-          {
-            "functionName": "IsPressed"
-          },
-          {
-            "functionName": "IsPressedOutside"
-          },
-          {
-            "functionName": "TouchId"
-          }
-        ]
-      },
       "propertyDescriptors": [
         {
           "value": "true",
@@ -1730,20 +1690,6 @@
           "objectGroups": []
         }
       ],
-      "eventsFunctionsFolderStructure": {
-        "folderName": "__ROOT",
-        "children": [
-          {
-            "functionName": "IsHovered"
-          },
-          {
-            "functionName": "SetIsHovered"
-          },
-          {
-            "functionName": "Color"
-          }
-        ]
-      },
       "propertyDescriptors": [
         {
           "value": "",
@@ -2190,20 +2136,6 @@
           "objectGroups": []
         }
       ],
-      "eventsFunctionsFolderStructure": {
-        "folderName": "__ROOT",
-        "children": [
-          {
-            "functionName": "IsHovered"
-          },
-          {
-            "functionName": "SetIsHovered"
-          },
-          {
-            "functionName": "Color"
-          }
-        ]
-      },
       "propertyDescriptors": [
         {
           "value": "",
@@ -3847,56 +3779,6 @@
           "objectGroups": []
         }
       ],
-      "eventsFunctionsFolderStructure": {
-        "folderName": "__ROOT",
-        "children": [
-          {
-            "functionName": "onCreated"
-          },
-          {
-            "functionName": "onHotReloading"
-          },
-          {
-            "functionName": "doStepPostEvents"
-          },
-          {
-            "functionName": "IsIdle"
-          },
-          {
-            "functionName": "IsClicked"
-          },
-          {
-            "functionName": "IsHovered"
-          },
-          {
-            "functionName": "IsFocused"
-          },
-          {
-            "functionName": "IsPressed"
-          },
-          {
-            "functionName": "SetLabelText"
-          },
-          {
-            "functionName": "SetLabelTextOp"
-          },
-          {
-            "functionName": "LabelText"
-          },
-          {
-            "functionName": "Activate"
-          },
-          {
-            "functionName": "IsActivated"
-          },
-          {
-            "functionName": "LabelOffset"
-          },
-          {
-            "functionName": "SetLabelOffset"
-          }
-        ]
-      },
       "propertyDescriptors": [
         {
           "value": "",
