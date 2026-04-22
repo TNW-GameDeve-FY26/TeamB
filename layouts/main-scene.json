@@ -9,7 +9,7 @@
   "title": "",
   "v": 144,
   "uiSettings": {
-    "grid": true,
+    "grid": false,
     "gridType": "rectangular",
     "gridWidth": 32,
     "gridHeight": 32,
@@ -19,8 +19,13 @@
     "gridOffsetZ": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
+<<<<<<< Updated upstream
     "snap": true,
     "zoomFactor": 0.5468750000000512,
+=======
+    "snap": false,
+    "zoomFactor": 0.33253870912510763,
+>>>>>>> Stashed changes
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
@@ -3145,7 +3150,11 @@
       "angle": 180,
       "customSize": true,
       "depth": 1,
+<<<<<<< Updated upstream
       "height": 2530,
+=======
+      "height": 2464,
+>>>>>>> Stashed changes
       "keepRatio": true,
       "layer": "",
       "name": "PathSide",
@@ -3179,12 +3188,20 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
+<<<<<<< Updated upstream
       "height": 2627,
+=======
+      "height": 2464,
+>>>>>>> Stashed changes
       "keepRatio": true,
       "layer": "",
       "name": "OffPathGrass",
       "persistentUuid": "c45689bd-32e7-4717-8f69-2d5f7c6bfa6c",
+<<<<<<< Updated upstream
       "width": 4258,
+=======
+      "width": 4256,
+>>>>>>> Stashed changes
       "x": 2016,
       "y": -704,
       "zOrder": 38,
@@ -3196,14 +3213,22 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
+<<<<<<< Updated upstream
       "height": 4768,
+=======
+      "height": 4864,
+>>>>>>> Stashed changes
       "keepRatio": true,
       "layer": "",
       "name": "OffPathGrass",
       "persistentUuid": "8c17d3f3-fcce-44bc-927e-8636158a1888",
       "width": 4224,
       "x": 2048,
+<<<<<<< Updated upstream
       "y": 1920,
+=======
+      "y": 1824,
+>>>>>>> Stashed changes
       "zOrder": 38,
       "numberProperties": [],
       "stringProperties": [],
@@ -3230,6 +3255,60 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
+<<<<<<< Updated upstream
+=======
+      "height": 64,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PathSprite",
+      "persistentUuid": "127c605b-d4c4-4941-82d0-a2036a95d16e",
+      "width": 32,
+      "x": 6272,
+      "y": 1760,
+      "zOrder": 39,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 90,
+      "customSize": true,
+      "depth": 1,
+      "height": 3680,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PathSide",
+      "persistentUuid": "cf34ddcb-dfa1-415d-acf0-6a5b97c1b6dd",
+      "width": 32,
+      "x": 4416,
+      "y": -32,
+      "zOrder": 40,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 270,
+      "customSize": true,
+      "depth": 1,
+      "height": 3680,
+      "keepRatio": true,
+      "layer": "",
+      "name": "PathSide",
+      "persistentUuid": "12732d7b-edb3-405b-af1f-0b99c6755042",
+      "width": 32,
+      "x": 4416,
+      "y": -64,
+      "zOrder": 40,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+>>>>>>> Stashed changes
       "height": 384,
       "keepRatio": true,
       "layer": "",
@@ -3492,7 +3571,11 @@
       "persistentUuid": "7f554e5e-7b0b-4694-840c-6da6ecd498dc",
       "width": 384,
       "x": 5632,
+<<<<<<< Updated upstream
       "y": 1821,
+=======
+      "y": 1792,
+>>>>>>> Stashed changes
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -3899,8 +3982,13 @@
       "name": "NormalTree",
       "persistentUuid": "ff7e2cdc-a98d-47d1-9a00-8177e6820dda",
       "width": 384,
+<<<<<<< Updated upstream
       "x": 5988,
       "y": 657,
+=======
+      "x": 5984,
+      "y": 608,
+>>>>>>> Stashed changes
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -3916,8 +4004,13 @@
       "name": "NormalTree",
       "persistentUuid": "68cedd1d-f89e-40db-980a-e35844462f2d",
       "width": 384,
+<<<<<<< Updated upstream
       "x": 5821,
       "y": -231,
+=======
+      "x": 5760,
+      "y": -416,
+>>>>>>> Stashed changes
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -3933,8 +4026,13 @@
       "name": "NormalTree",
       "persistentUuid": "3caabf46-f7ac-49c7-b837-c0b69c9f0ea7",
       "width": 384,
+<<<<<<< Updated upstream
       "x": 5908,
       "y": -20,
+=======
+      "x": 5664,
+      "y": -64,
+>>>>>>> Stashed changes
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -3950,8 +4048,13 @@
       "name": "NormalTree",
       "persistentUuid": "44fbfab0-f179-49c4-8404-958134b8ec47",
       "width": 384,
+<<<<<<< Updated upstream
       "x": 6349,
       "y": -346,
+=======
+      "x": 6688,
+      "y": -96,
+>>>>>>> Stashed changes
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -3967,8 +4070,13 @@
       "name": "NormalTree",
       "persistentUuid": "1564d700-d0f4-4cf2-bece-2f50d098ea98",
       "width": 384,
+<<<<<<< Updated upstream
       "x": 6444,
       "y": -134,
+=======
+      "x": 7040,
+      "y": -256,
+>>>>>>> Stashed changes
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -4001,8 +4109,13 @@
       "name": "NormalTree",
       "persistentUuid": "7620709f-3341-40bd-aa88-c691670652d2",
       "width": 384,
+<<<<<<< Updated upstream
       "x": 5944,
       "y": -601,
+=======
+      "x": 5600,
+      "y": 320,
+>>>>>>> Stashed changes
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -4222,8 +4335,13 @@
       "name": "NeonGreenTree",
       "persistentUuid": "be28a752-0039-4d1c-ba46-8bbeb2491c46",
       "width": 704,
+<<<<<<< Updated upstream
       "x": 5689,
       "y": 121,
+=======
+      "x": 5472,
+      "y": 448,
+>>>>>>> Stashed changes
       "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
@@ -4256,8 +4374,13 @@
       "name": "NeonGreenTree",
       "persistentUuid": "6986e803-a803-46ad-b539-29ff7fc4a2ec",
       "width": 704,
+<<<<<<< Updated upstream
       "x": 6155,
       "y": 28,
+=======
+      "x": 6784,
+      "y": -160,
+>>>>>>> Stashed changes
       "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
@@ -4273,8 +4396,13 @@
       "name": "NeonGreenTree",
       "persistentUuid": "25b9bee7-118e-4ad4-a3d7-f9248d298d4d",
       "width": 704,
+<<<<<<< Updated upstream
       "x": 5534,
       "y": 323,
+=======
+      "x": 5120,
+      "y": 96,
+>>>>>>> Stashed changes
       "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
@@ -4495,7 +4623,11 @@
       "persistentUuid": "b1278441-6947-4998-b7db-da881d6eface",
       "width": 704,
       "x": 5696,
+<<<<<<< Updated upstream
       "y": 810,
+=======
+      "y": 704,
+>>>>>>> Stashed changes
       "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
@@ -4574,8 +4706,13 @@
       "name": "WendigoSprite",
       "persistentUuid": "8e4ccbf8-a56b-4d74-9cd4-add39f062f12",
       "width": 0,
+<<<<<<< Updated upstream
       "x": 6339,
       "y": -126,
+=======
+      "x": 6691,
+      "y": -990,
+>>>>>>> Stashed changes
       "zOrder": 40,
       "numberProperties": [],
       "stringProperties": [],
@@ -4630,7 +4767,11 @@
       "initialVariables": []
     },
     {
+<<<<<<< Updated upstream
       "angle": 359,
+=======
+      "angle": 104,
+>>>>>>> Stashed changes
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -4638,15 +4779,24 @@
       "name": "BushSprite",
       "persistentUuid": "d876c591-91c0-4a35-8f4d-2feae68633f0",
       "width": 0,
+<<<<<<< Updated upstream
       "x": 6339,
       "y": -310,
+=======
+      "x": 6357,
+      "y": -312,
+>>>>>>> Stashed changes
       "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
+<<<<<<< Updated upstream
       "angle": 359,
+=======
+      "angle": 84,
+>>>>>>> Stashed changes
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -4654,8 +4804,13 @@
       "name": "BushSprite",
       "persistentUuid": "96b77161-e61a-4dd5-81fe-3a8acf0a9f22",
       "width": 0,
+<<<<<<< Updated upstream
       "x": 6280,
       "y": -286,
+=======
+      "x": 6264,
+      "y": -275,
+>>>>>>> Stashed changes
       "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
@@ -4678,7 +4833,11 @@
       "initialVariables": []
     },
     {
+<<<<<<< Updated upstream
       "angle": 4,
+=======
+      "angle": 84,
+>>>>>>> Stashed changes
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -4686,15 +4845,24 @@
       "name": "BushSprite",
       "persistentUuid": "c3e604c0-38f5-4b7b-852b-261995102fef",
       "width": 0,
+<<<<<<< Updated upstream
       "x": 6333,
       "y": -203,
+=======
+      "x": 6377,
+      "y": -197,
+>>>>>>> Stashed changes
       "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
+<<<<<<< Updated upstream
       "angle": 357,
+=======
+      "angle": 84,
+>>>>>>> Stashed changes
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -4702,8 +4870,13 @@
       "name": "BushSprite",
       "persistentUuid": "ceb06c08-cee2-4129-b67f-538847007d31",
       "width": 0,
+<<<<<<< Updated upstream
       "x": 6320,
       "y": -251,
+=======
+      "x": 6374,
+      "y": -155,
+>>>>>>> Stashed changes
       "zOrder": 48,
       "numberProperties": [],
       "stringProperties": [],
@@ -4728,16 +4901,27 @@
     },
     {
       "angle": 0,
+<<<<<<< Updated upstream
       "customSize": true,
       "depth": 1,
       "height": 31,
+=======
+      "customSize": false,
+      "height": 0,
+>>>>>>> Stashed changes
       "keepRatio": true,
       "layer": "",
       "name": "BushSprite",
       "persistentUuid": "74f1d38d-8ffc-48c1-a8b4-c1822b7afebc",
+<<<<<<< Updated upstream
       "width": 38,
       "x": 6357,
       "y": 678,
+=======
+      "width": 0,
+      "x": 6363,
+      "y": 588,
+>>>>>>> Stashed changes
       "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
@@ -4745,16 +4929,27 @@
     },
     {
       "angle": 0,
+<<<<<<< Updated upstream
       "customSize": true,
       "depth": 1,
       "height": 31,
+=======
+      "customSize": false,
+      "height": 0,
+>>>>>>> Stashed changes
       "keepRatio": true,
       "layer": "",
       "name": "BushSprite",
       "persistentUuid": "f52593c0-4541-445f-a18a-f44ce6ca7969",
+<<<<<<< Updated upstream
       "width": 39,
       "x": 6355,
       "y": 639,
+=======
+      "width": 0,
+      "x": 6365,
+      "y": 629,
+>>>>>>> Stashed changes
       "zOrder": 50,
       "numberProperties": [],
       "stringProperties": [],
@@ -4775,6 +4970,7 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+<<<<<<< Updated upstream
     },
     {
       "angle": 0,
@@ -4809,6 +5005,8 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+=======
+>>>>>>> Stashed changes
     }
   ],
   "objects": [
@@ -6631,6 +6829,7 @@
           ]
         }
       ]
+<<<<<<< Updated upstream
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -6657,6 +6856,8 @@
           ]
         }
       ]
+=======
+>>>>>>> Stashed changes
     }
   ],
   "layers": [
@@ -6796,6 +6997,7 @@
           }
         },
         {
+<<<<<<< Updated upstream
           "effectType": "MotionBlur",
           "name": "Effect",
           "doubleParameters": {
@@ -6803,6 +7005,12 @@
             "offset": 0.2,
             "velocityX": 0,
             "velocityY": 0
+=======
+          "effectType": "Noise",
+          "name": "Effect",
+          "doubleParameters": {
+            "noise": 0.2
+>>>>>>> Stashed changes
           },
           "stringParameters": {},
           "booleanParameters": {}
