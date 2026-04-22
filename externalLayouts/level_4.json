@@ -448,6 +448,7 @@
     "snap": true,
     "zoomFactor": 0.246725869574063,
     "windowMask": false,
-    "selectedLayer": ""
+    "selectedLayer": "",
+    "gameEditorMode": "instances-editor"
   }
 }

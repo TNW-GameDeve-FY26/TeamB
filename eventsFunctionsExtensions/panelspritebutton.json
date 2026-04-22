@@ -1,6 +1,7 @@
 {
   "author": "",
   "category": "User interface",
+  "dimension": "",
   "extensionNamespace": "",
   "fullName": "Labeled button",
   "gdevelopVersion": ">=5.5.230",
@@ -59,12 +60,23 @@
       "objectGroups": []
     }
   ],
+  "eventsFunctionsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "functionName": "IsInGameEdition"
+      }
+    ]
+  },
   "eventsBasedBehaviors": [
     {
       "description": "The finite state machine used internally by the button object.",
       "fullName": "Button finite state machine",
+      "helpPath": "",
+      "iconUrl": "",
       "name": "ButtonFSM",
       "objectType": "",
+      "previewIconUrl": "",
       "private": true,
       "eventsFunctions": [
         {
@@ -1159,6 +1171,41 @@
           "objectGroups": []
         }
       ],
+      "eventsFunctionsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "functionName": "doStepPostEvents"
+          },
+          {
+            "functionName": "onDeActivate"
+          },
+          {
+            "functionName": "ResetState"
+          },
+          {
+            "functionName": "IsIdle"
+          },
+          {
+            "functionName": "IsClicked"
+          },
+          {
+            "functionName": "IsHovered"
+          },
+          {
+            "functionName": "IsFocused"
+          },
+          {
+            "functionName": "IsPressed"
+          },
+          {
+            "functionName": "IsPressedOutside"
+          },
+          {
+            "functionName": "TouchId"
+          }
+        ]
+      },
       "propertyDescriptors": [
         {
           "value": "true",
@@ -1253,8 +1300,11 @@
     {
       "description": "Change the text style when the button is hovered.",
       "fullName": "Hover text style",
+      "helpPath": "",
+      "iconUrl": "",
       "name": "TextStyleState",
       "objectType": "TextObject::Text",
+      "previewIconUrl": "",
       "private": true,
       "eventsFunctions": [
         {
@@ -1686,6 +1736,20 @@
           "objectGroups": []
         }
       ],
+      "eventsFunctionsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "functionName": "IsHovered"
+          },
+          {
+            "functionName": "SetIsHovered"
+          },
+          {
+            "functionName": "Color"
+          }
+        ]
+      },
       "propertyDescriptors": [
         {
           "value": "",
@@ -1765,8 +1829,11 @@
     {
       "description": "Change the text style when the button is hovered.",
       "fullName": "Hover bitmap text style",
+      "helpPath": "",
+      "iconUrl": "",
       "name": "BitmapTextStyleState",
       "objectType": "BitmapText::BitmapTextObject",
+      "previewIconUrl": "",
       "private": true,
       "eventsFunctions": [
         {
@@ -2132,6 +2199,20 @@
           "objectGroups": []
         }
       ],
+      "eventsFunctionsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "functionName": "IsHovered"
+          },
+          {
+            "functionName": "SetIsHovered"
+          },
+          {
+            "functionName": "Color"
+          }
+        ]
+      },
       "propertyDescriptors": [
         {
           "value": "",
@@ -2210,9 +2291,12 @@
       "defaultName": "Button",
       "description": "Button with a label.",
       "fullName": "Labeled button",
+      "helpPath": "",
+      "iconUrl": "",
       "isInnerAreaFollowingParentSize": true,
       "isUsingLegacyInstancesRenderer": false,
       "name": "PanelSpriteButton",
+      "previewIconUrl": "",
       "objects": [
         {
           "assetStoreId": "",
@@ -3775,6 +3859,56 @@
           "objectGroups": []
         }
       ],
+      "eventsFunctionsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "functionName": "onCreated"
+          },
+          {
+            "functionName": "onHotReloading"
+          },
+          {
+            "functionName": "doStepPostEvents"
+          },
+          {
+            "functionName": "IsIdle"
+          },
+          {
+            "functionName": "IsClicked"
+          },
+          {
+            "functionName": "IsHovered"
+          },
+          {
+            "functionName": "IsFocused"
+          },
+          {
+            "functionName": "IsPressed"
+          },
+          {
+            "functionName": "SetLabelText"
+          },
+          {
+            "functionName": "SetLabelTextOp"
+          },
+          {
+            "functionName": "LabelText"
+          },
+          {
+            "functionName": "Activate"
+          },
+          {
+            "functionName": "IsActivated"
+          },
+          {
+            "functionName": "LabelOffset"
+          },
+          {
+            "functionName": "SetLabelOffset"
+          }
+        ]
+      },
       "propertyDescriptors": [
         {
           "value": "",

@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 252,
+    "build": 266,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -81,7 +81,6 @@
     "authorUsernames": [],
     "categories": [],
     "playableDevices": [
-      "mobile",
       "mobile"
     ],
     "extensionProperties": [],
@@ -406,6 +405,14 @@
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite5",
         "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/aaron.json",
+        "kind": "json",
+        "metadata": "{\"localFilePath\":\"assets/aaron.json\",\"extension\":\".json\"}",
+        "name": "assets/aaron.json",
         "userAdded": false
       }
     ]
