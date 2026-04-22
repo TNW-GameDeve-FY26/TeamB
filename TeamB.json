@@ -537,6 +537,218 @@
         "name": "NewSprite",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "NeonGreenTree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NeonGreenTree.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "NormalTree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NormalTree.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "LightBrownPath.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightBrownPath.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/LightBrownPath.png\"}",
+        "name": "LightBrownPath",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "LightBrownPath2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightBrownPath2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/LightBrownPath2.png\"}",
+        "name": "LightBrownPath2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "LightBrownPath3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightBrownPath3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/LightBrownPath3.png\"}",
+        "name": "LightBrownPath3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "LightBrownPath4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightBrownPath4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/LightBrownPath4.png\"}",
+        "name": "LightBrownPath4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite6.png\"}",
+        "name": "NewTiledSprite4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "PathAndObjects.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PathAndObjects.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "PathAndObjects2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PathAndObjects2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "ChatGPT Image Apr 22, 2026, 12_34_06 PM.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ChatGPT Image Apr 22, 2026, 12_34_06 PM.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tileset.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "trees-and-bushes.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "trees-and-bushes.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Bush1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bush1_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Bush1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bush1_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wendigo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wendigo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "CrateImage.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CrateImage.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "CrateImage-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CrateImage-export.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "CrateImage-export2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CrateImage-export2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/CartoonSmoke.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CartoonSmoke.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/971c74ddfb7396b4a871d3949e0970d50be470c636b91142362c15a3431ed63c_CartoonSmoke.png",
+          "name": "CartoonSmoke.png"
+        }
       }
     ]
   },

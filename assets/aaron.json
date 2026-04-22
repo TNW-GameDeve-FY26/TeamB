@@ -1,0 +1,102 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "ahhhhhh wheres my mom \n[[ answer:your ok im not going to hurt you i was just seeing what all the noise was  |A]] |]]\n[[ answer:ahhhhhhhhh wut da blody ell are you scremin abut  |B]] |]]",
+		"position": {
+			"x": 347,
+			"y": 187
+		},
+		"colorID": 0
+	},
+	{
+		"title": "A",
+		"tags": "",
+		"body": "oh snif well i didnt mean to disturb you i just  cant find my mom \n[[ answer: well im a bit lost just like your mother do you know where we are oh and whats your name mines oliver  |C]] |]]\n[[ answer: well i dont know what a mother but i will help you find them what was your name again mines oliver |C]] |]]",
+		"position": {
+			"x": -16,
+			"y": 452
+		},
+		"colorID": 0
+	},
+	{
+		"title": "B",
+		"tags": "",
+		"body": "what are snifil you saying \n[[ answer: well sorry for startling you and for the odd voice |F]] |]]\n[[ answer: ell im aying uo aint got none tofear wen it all come right round to my lil old self |F]] |]]",
+		"position": {
+			"x": 629,
+			"y": 478
+		},
+		"colorID": 0
+	},
+	{
+		"title": "C",
+		"tags": "",
+		"body": "relly thanek you for hellping me finde my mom but im sorry to say i have noidea where we are to be honest i cant remember anything exspt my mom not evean my name \n[[ answer: well thean how about i call you aaron |D]] |]]\n[[ answer: well we have to get you a name what was your mothers name |E]] |]]",
+		"position": {
+			"x": -206,
+			"y": 755
+		},
+		"colorID": 0
+	},
+	{
+		"title": "D",
+		"tags": "",
+		"body": "i love it aaron it sounds frendly well grumbel do you have any food \n[[ answer: ya i do back at my wagon we can travel down the path eat and look for your mom so will you join me on this jurny  |end]] |]]\n[[ answer: ido you want some fallow me i got a bit on my wagaon its not far to the path where i layed my wagon down we can eat and look for your mom if you want to |end]] |]]",
+		"position": {
+			"x": -449,
+			"y": 1071
+		},
+		"colorID": 0
+	},
+	{
+		"title": "E",
+		"tags": "",
+		"body": "aarona \n[[ answer: ok thean how about aaron |D]] |]]\n[[ answer: thean lets do the meale virson and name you aaron |D]] |]]",
+		"position": {
+			"x": 46,
+			"y": 1037
+		},
+		"colorID": 0
+	},
+	{
+		"title": "end",
+		"tags": "",
+		"body": "thanke you for helping me and for the food and ide love to join you for this jurny",
+		"position": {
+			"x": 246,
+			"y": 1524
+		},
+		"colorID": 0
+	},
+	{
+		"title": "F",
+		"tags": "",
+		"body": "oh ok well do you think you could help me fined my mom \n[[ answer: i dont realy know what a mother or a mom is but i will help you finde them oh and befor i forget my names oliver whats yours  |G]] |]]\n[[ answer: right ell ill ellp ya find diss om ing but ima need a right proper name to all ya by  ya can ust call me oliver |G]] |]]",
+		"position": {
+			"x": 627,
+			"y": 813
+		},
+		"colorID": 0
+	},
+	{
+		"title": "G",
+		"tags": "",
+		"body": "well i dont knowe my name i cant actualy recall anythin exsept my mom \n[[ answer: ok well what do you think obout the name aaron |H]] |]]\n[[ answer: alight ean ou about we give you a right proper name like aaron |H]] |]]",
+		"position": {
+			"x": 654,
+			"y": 1097
+		},
+		"colorID": 0
+	},
+	{
+		"title": "H",
+		"tags": "",
+		"body": "i love it aaron it sounds frendly well grumbel do you have any food \n[[ answer: ya i do back at my wagon we can travel down the path eat and look for your mom so will you join me on this jurny |end]] |]]\n[[ answer: ya i got a bit a grub i say we go eat up ean it a rode is serch a your mum  so ya coming wit me er not |end]] |]]",
+		"position": {
+			"x": 952,
+			"y": 1206
+		},
+		"colorID": 0
+	}
+]

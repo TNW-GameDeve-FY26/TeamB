@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "test one \ntest two\n[[ answer: yay|yay]] |]]\n[[ answer: no|no]] |]]",
+		"position": {
+			"x": 347,
+			"y": 187
+		},
+		"colorID": 0
+	},
+	{
+		"title": "yay",
+		"tags": "",
+		"body": "why",
+		"position": {
+			"x": 76,
+			"y": 3
+		},
+		"colorID": 0
+	},
+	{
+		"title": "no",
+		"tags": "",
+		"body": "the",
+		"position": {
+			"x": 653,
+			"y": -13
+		},
+		"colorID": 0
+	}
+]
