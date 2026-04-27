@@ -27,7 +27,8 @@
     "zoomFactor": 0.33253870912510763,
 >>>>>>> Stashed changes
     "windowMask": false,
-    "selectedLayer": ""
+    "selectedLayer": "",
+    "gameEditorMode": "instances-editor"
   },
   "objectsGroups": [
     {
