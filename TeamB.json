@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 262,
+    "build": 266,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -81,7 +81,6 @@
     "authorUsernames": [],
     "categories": [],
     "playableDevices": [
-      "mobile",
       "mobile"
     ],
     "extensionProperties": [],
@@ -749,6 +748,30 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/971c74ddfb7396b4a871d3949e0970d50be470c636b91142362c15a3431ed63c_CartoonSmoke.png",
           "name": "CartoonSmoke.png"
         }
+      },
+      {
+        "file": "assets/NewTiledSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/LightBrownPath.png2.png\"}",
+        "name": "LightBrownPath.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath2.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "LightBrownPath2.png2",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },

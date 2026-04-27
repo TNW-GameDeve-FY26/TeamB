@@ -72,8 +72,11 @@
     {
       "description": "The finite state machine used internally by the button object.",
       "fullName": "Button finite state machine",
+      "helpPath": "",
+      "iconUrl": "",
       "name": "ButtonFSM",
       "objectType": "",
+      "previewIconUrl": "",
       "private": true,
       "eventsFunctions": [
         {
@@ -1297,8 +1300,11 @@
     {
       "description": "Change the text style when the button is hovered.",
       "fullName": "Hover text style",
+      "helpPath": "",
+      "iconUrl": "",
       "name": "TextStyleState",
       "objectType": "TextObject::Text",
+      "previewIconUrl": "",
       "private": true,
       "eventsFunctions": [
         {
@@ -1823,8 +1829,11 @@
     {
       "description": "Change the text style when the button is hovered.",
       "fullName": "Hover bitmap text style",
+      "helpPath": "",
+      "iconUrl": "",
       "name": "BitmapTextStyleState",
       "objectType": "BitmapText::BitmapTextObject",
+      "previewIconUrl": "",
       "private": true,
       "eventsFunctions": [
         {
@@ -2282,9 +2291,12 @@
       "defaultName": "Button",
       "description": "Button with a label.",
       "fullName": "Labeled button",
+      "helpPath": "",
+      "iconUrl": "",
       "isInnerAreaFollowingParentSize": true,
       "isUsingLegacyInstancesRenderer": false,
       "name": "PanelSpriteButton",
+      "previewIconUrl": "",
       "objects": [
         {
           "assetStoreId": "",

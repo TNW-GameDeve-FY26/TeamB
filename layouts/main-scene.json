@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.5468750000000512,
+    "zoomFactor": 0.1830573495556176,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
@@ -6013,7 +6013,7 @@
       "height": 32,
       "name": "OffPathGrass",
       "persistentUuid": "909d4b88-c3e1-4776-aef5-b8b832cd09a2",
-      "texture": "NewTiledSprite3",
+      "texture": "NewTiledSprite7",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
       "variables": [],
@@ -6049,18 +6049,7 @@
       "height": 32,
       "name": "PathSprite",
       "persistentUuid": "5335c41b-870b-4eb2-bd5f-a25c500de0ea",
-      "texture": "NewTiledSprite4",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 32,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "",
-      "height": 32,
-      "name": "PathSprite2",
-      "texture": "NewTiledSprite5",
+      "texture": "LightBrownPath2.png2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
       "variables": [],
@@ -6072,7 +6061,7 @@
       "height": 32,
       "name": "PathSide",
       "persistentUuid": "70df52eb-f0aa-4d79-aa3c-c9634c3b46c6",
-      "texture": "NewTiledSprite6",
+      "texture": "LightBrownPath.png2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
       "variables": [],
@@ -6331,7 +6320,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "CrateImage-export2.png",
+                  "image": "CrateImage.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6494,9 +6483,6 @@
       },
       {
         "objectName": "PathSprite"
-      },
-      {
-        "objectName": "PathSprite2"
       },
       {
         "objectName": "PathSide"
