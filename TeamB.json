@@ -278,73 +278,230 @@
         "userAdded": false
       },
       {
-        "file": "assets/Transparent Button With White Blue Border_Hovered.png",
+        "file": "assets/Black Decorated Button_Hovered.png",
         "kind": "image",
         "metadata": "",
-        "name": "Transparent Button With White Blue Border_Hovered.png",
+        "name": "Black Decorated Button_Hovered.png",
         "smoothed": true,
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/6d8e529f898d0d1cfc8e94ba10ae0a01e0a31b08bc0d11ec35074a34f3485f55_Transparent Button With White Blue Border_Hovered.png",
-          "name": "Transparent Button With White Blue Border_Hovered.png"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/8a9f8afaf0442f49cd7d5318d31ac6117137ec91d9086e9bdd59b052a4fa71f0_Black Decorated Button_Hovered.png",
+          "name": "Black Decorated Button_Hovered.png"
         }
       },
       {
-        "file": "assets/Transparent Button With White Blue Border_Idle.png",
+        "file": "assets/Black Decorated Button_Idle.png",
         "kind": "image",
         "metadata": "",
-        "name": "Transparent Button With White Blue Border_Idle.png",
+        "name": "Black Decorated Button_Idle.png",
         "smoothed": true,
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7311d88d62c25c9a5e7ed4f2031f4d58fabe564e093b203e62e467a1a995ed32_Transparent Button With White Blue Border_Idle.png",
-          "name": "Transparent Button With White Blue Border_Idle.png"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/6652cc81d33cb5485e0bf19ed2a92aac70b5c9fb45837762d094c8dbecc30d4d_Black Decorated Button_Idle.png",
+          "name": "Black Decorated Button_Idle.png"
         }
       },
       {
-        "file": "assets/Transparent Button With White Blue Border_Pressed.png",
+        "file": "assets/Black Decorated Button_Pressed.png",
         "kind": "image",
         "metadata": "",
-        "name": "Transparent Button With White Blue Border_Pressed.png",
+        "name": "Black Decorated Button_Pressed.png",
         "smoothed": true,
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c18e2e342a2cce350f068208df2b7f5549dc600d2201609b1d3d76c497fffd30_Transparent Button With White Blue Border_Pressed.png",
-          "name": "Transparent Button With White Blue Border_Pressed.png"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/61997299d1d329fff69772b1111ba7c07b6c0a96a9a17090d2bf2cc31ff08e00_Black Decorated Button_Pressed.png",
+          "name": "Black Decorated Button_Pressed.png"
         }
       },
       {
-        "file": "assets/Kenney Mini Square.ttf",
+        "file": "assets/ArchitectsDaughter.ttf",
         "kind": "font",
         "metadata": "",
-        "name": "Kenney Mini Square.ttf",
+        "name": "ArchitectsDaughter.ttf",
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini Square.ttf",
-          "name": "Kenney Mini Square.ttf"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ab812c7d15ad3474b6e55761235713b68f34374f3f064d1b8685ed46720df2f8_ArchitectsDaughter.ttf",
+          "name": "ArchitectsDaughter.ttf"
         }
       },
       {
-        "disablePreload": true,
-        "file": "assets/butch house convo.json",
-        "kind": "json",
-        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/butch house convo.json\"}",
-        "name": "butch house convo",
-        "userAdded": false
+        "file": "assets/Black Square Decorated Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Square Decorated Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f412f1600c8331cf72f89d4bd00ce33a91d18553dea6d91ae71966a24c659e9a_Black Square Decorated Button_Hovered.png",
+          "name": "Black Square Decorated Button_Hovered.png"
+        }
       },
       {
-        "disablePreload": true,
-        "file": "assets/New dialogue tree2.json",
-        "kind": "json",
-        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/New dialogue tree2.json\"}",
-        "name": "New dialogue tree2",
-        "userAdded": false
+        "file": "assets/Black Square Decorated Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Square Decorated Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/a33bd108a01f89ef1fe8d695b6b060e19ec466e4fce2d728ed93fb2b96ebd768_Black Square Decorated Button_Idle.png",
+          "name": "Black Square Decorated Button_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Black Square Decorated Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Black Square Decorated Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c772df82fc56543546eea5576b02f73253eaf5683120a331581f0b85664f62af_Black Square Decorated Button_Pressed.png",
+          "name": "Black Square Decorated Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/mononoki-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "mononoki-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7423149de6e486ac885567761bef3236bcdb8414d05cb0920ae7aedffdec85f9_mononoki-Regular.ttf",
+          "name": "mononoki-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/Red Button With Gold Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Gold Frame_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/efae8667310d19ec644147356eb91a417f9558f93f4ea3648611fe5a79fb0f3a_Red Button With Gold Frame_Hovered.png",
+          "name": "Red Button With Gold Frame_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Gold Frame_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Gold Frame_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4b95308670b04c19600672083409d5d39dde7096139d36a89e18111cc547835c_Red Button With Gold Frame_Idle.png",
+          "name": "Red Button With Gold Frame_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Gold Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Gold Frame_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/8914d295c54909f59b10d76edbd01797409a0f09119c3acd2576e3ce3cf378b9_Red Button With Gold Frame_Pressed.png",
+          "name": "Red Button With Gold Frame_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Roboto-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Roboto-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+          "name": "Roboto-Regular.ttf"
+        }
       },
       {
         "file": "assets/NewTiledSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "NewTiledSprite3",
+        "name": "lava_bad",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/lava.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "lava",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Red Button With Metal Frame_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Metal Frame_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b22a9a1823c086427abcdbec14ef49d5a49e6999d8970476bdb7c022b62d8dcc_Red Button With Metal Frame_Hovered.png",
+          "name": "Red Button With Metal Frame_Hovered.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Metal Frame_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Metal Frame_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c89bb37a1b97b101b601ba39bce50d74964264704d0644735a08c0986e122294_Red Button With Metal Frame_Idle.png",
+          "name": "Red Button With Metal Frame_Idle.png"
+        }
+      },
+      {
+        "file": "assets/Red Button With Metal Frame_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Button With Metal Frame_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ff00ce0a7031e00560a3844ca90fbf73a45c42c8f6659e018110fc8c45c9982e_Red Button With Metal Frame_Pressed.png",
+          "name": "Red Button With Metal Frame_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Charm-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Charm-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/668523d3d2bb73faa358e1ebafa55f43d2760f8abbe99aa15476121c1bcc7eb6_Charm-Regular.ttf",
+          "name": "Charm-Regular.ttf"
+        }
+      },
+      {
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "slow_trigger_end",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "nausea_background",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "slow_trigger_start",
         "smoothed": true,
         "userAdded": false
       },
@@ -352,26 +509,7 @@
         "file": "assets/NewSprite5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Kenney Mini.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini.ttf",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/NewTiledSprite4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite4.png\"}",
-        "name": "NewTiledSprite4",
+        "name": "checkpoint",
         "smoothed": true,
         "userAdded": false
       },
@@ -379,15 +517,7 @@
         "file": "assets/NewSprite6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite7.png\"}",
-        "name": "NewSprite3",
+        "name": "hotbar_background",
         "smoothed": true,
         "userAdded": false
       },
@@ -395,7 +525,7 @@
         "file": "assets/NewSprite8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite4",
+        "name": "apple",
         "smoothed": true,
         "userAdded": false
       },
@@ -403,16 +533,244 @@
         "file": "assets/NewSprite9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite5",
+        "name": "NewSprite",
         "smoothed": true,
         "userAdded": false
       },
       {
-        "disablePreload": false,
-        "file": "assets/aaron.json",
-        "kind": "json",
-        "metadata": "{\"localFilePath\":\"assets/aaron.json\",\"extension\":\".json\"}",
-        "name": "assets/aaron.json",
+        "file": "NeonGreenTree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NeonGreenTree.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "NormalTree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NormalTree.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "LightBrownPath.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightBrownPath.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/LightBrownPath.png\"}",
+        "name": "LightBrownPath",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "LightBrownPath2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightBrownPath2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/LightBrownPath2.png\"}",
+        "name": "LightBrownPath2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "LightBrownPath3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightBrownPath3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/LightBrownPath3.png\"}",
+        "name": "LightBrownPath3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "LightBrownPath4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "LightBrownPath4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/LightBrownPath4.png\"}",
+        "name": "LightBrownPath4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite6.png\"}",
+        "name": "NewTiledSprite4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "PathAndObjects.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PathAndObjects.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "PathAndObjects2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "PathAndObjects2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "ChatGPT Image Apr 22, 2026, 12_34_06 PM.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ChatGPT Image Apr 22, 2026, 12_34_06 PM.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tileset.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "trees-and-bushes.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "trees-and-bushes.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Bush1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bush1_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Bush1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bush1_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wendigo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wendigo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "CrateImage.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CrateImage.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "CrateImage-export.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CrateImage-export.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "CrateImage-export2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CrateImage-export2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/CartoonSmoke.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "CartoonSmoke.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/971c74ddfb7396b4a871d3949e0970d50be470c636b91142362c15a3431ed63c_CartoonSmoke.png",
+          "name": "CartoonSmoke.png"
+        }
+      },
+      {
+        "file": "assets/NewTiledSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/LightBrownPath.png2.png\"}",
+        "name": "LightBrownPath.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LightBrownPath2.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "LightBrownPath2.png2",
+        "smoothed": true,
         "userAdded": false
       }
     ]
@@ -422,17 +780,19 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [
-    {
-      "name": "level_num",
-      "type": "number",
-      "value": 1
-    }
-  ],
+  "variables": [],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/main-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/main-menu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/death_scrn"
     }
   ],
   "externalEvents": [
@@ -446,11 +806,11 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalEvents/branchin-type-shi"
+      "referenceTo": "/externalEvents/respawning-and-death"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalEvents/interactions"
+      "referenceTo": "/externalEvents/ailments--injuries"
     }
   ],
   "eventsFunctionsExtensions": [
@@ -462,23 +822,7 @@
   "externalLayouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/level_2"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/level_1"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/level_3"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/level_4"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/level_5"
+      "referenceTo": "/externalLayouts/credits_1"
     }
   ]
 }
