@@ -772,6 +772,30 @@
         "name": "LightBrownPath2.png2",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "disablePreload": true,
+        "file": "assets/butch house convo.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/butch house convo.json\"}",
+        "name": "butch house convo",
+        "userAdded": false
+      },
+      {
+        "disablePreload": true,
+        "file": "assets/New dialogue tree2.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\",\"localFilePath\":\"assets/New dialogue tree2.json\"}",
+        "name": "New dialogue tree2",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/aaron.json",
+        "kind": "json",
+        "metadata": "{\"localFilePath\":\"assets/aaron.json\",\"extension\":\".json\"}",
+        "name": "assets/aaron.json",
+        "userAdded": false
       }
     ]
   },
@@ -780,7 +804,13 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "level_num",
+      "type": "number",
+      "value": 1
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -811,6 +841,14 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalEvents/ailments--injuries"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/branchin-type-shi"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/interactions"
     }
   ],
   "eventsFunctionsExtensions": [
@@ -823,6 +861,26 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalLayouts/credits_1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/level_1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/level_2"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/level_3"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/level_4"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/level_5"
     }
   ]
 }
