@@ -1,0 +1,34 @@
+Bush1_1.png
+Bush1_3.png
+ChatGPT Image Apr 22, 2026, 12_34_06 PM.png
+CrateImage.png
+LightBrownPath.png
+LightBrownPath2.png
+NeonGreenTree.png
+NormalTree.png
+assets/ArchitectsDaughter.ttf
+assets/Black Decorated Button_Hovered.png
+assets/Black Decorated Button_Idle.png
+assets/Black Decorated Button_Pressed.png
+assets/Black Square Decorated Button_Hovered.png
+assets/Black Square Decorated Button_Idle.png
+assets/Black Square Decorated Button_Pressed.png
+assets/Charm-Regular.ttf
+assets/LightBrownPath.png2.png
+assets/LightBrownPath2.png2.png
+assets/NewTiledSprite7.png
+assets/Red Button With Gold Frame_Hovered.png
+assets/Red Button With Gold Frame_Idle.png
+assets/Red Button With Gold Frame_Pressed.png
+assets/Red Button With Metal Frame_Hovered.png
+assets/Red Button With Metal Frame_Idle.png
+assets/Red Button With Metal Frame_Pressed.png
+assets/Roboto-Regular.ttf
+assets/lava.png
+assets/mononoki-Regular.ttf
+externalEvents/ailments--injuries.json
+externalEvents/respawning-and-death.json
+externalLayouts/credits_1.json
+layouts/death_scrn.json
+layouts/main-menu.json
+wendigo.png
