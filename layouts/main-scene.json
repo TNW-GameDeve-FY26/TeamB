@@ -285,6 +285,7 @@
       "assetStoreId": "",
       "height": 32,
       "name": "grass",
+      "persistentUuid": "0184dc85-1ea0-404f-8098-e89637afc19a",
       "texture": "NewTiledSprite",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
@@ -296,6 +297,7 @@
       "assetStoreId": "",
       "height": 32,
       "name": "path",
+      "persistentUuid": "7bfdb333-52f0-42bf-8894-a4c390c9a6ce",
       "texture": "NewTiledSprite2",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
@@ -574,6 +576,7 @@
     {
       "assetStoreId": "",
       "name": "stamina_bar",
+      "persistentUuid": "ab072f03-fdea-40ce-8f5b-9140f32d59b5",
       "type": "PrimitiveDrawing::Drawer",
       "variables": [],
       "effects": [],
@@ -896,6 +899,7 @@
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "butch_house_",
+      "persistentUuid": "7db4e8c1-1298-4a89-ae8b-2cb7835a58cc",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -1013,6 +1017,140 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "TreeSprite1",
+      "persistentUuid": "ea8f513e-ccc8-47fa-b55e-cde203d79162",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NormalTree2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 60,
+                        "y": 3
+                      },
+                      {
+                        "x": 60,
+                        "y": 59
+                      },
+                      {
+                        "x": 3,
+                        "y": 59
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "GreenTree",
+      "persistentUuid": "e61c216a-b98d-4f9c-8cc1-0a955c6bc3af",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NeonGreenTree2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 29,
+                        "y": 4
+                      },
+                      {
+                        "x": 98,
+                        "y": 4
+                      },
+                      {
+                        "x": 98,
+                        "y": 61
+                      },
+                      {
+                        "x": 29,
+                        "y": 61
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "BoundarySprite",
+      "persistentUuid": "72d8d364-79f0-41b4-a9a1-1928315f4408",
+      "texture": "NewTiledSprite3",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -1074,6 +1212,15 @@
       },
       {
         "objectName": "aaron"
+      },
+      {
+        "objectName": "TreeSprite1"
+      },
+      {
+        "objectName": "BoundarySprite"
+      },
+      {
+        "objectName": "GreenTree"
       }
     ]
   },

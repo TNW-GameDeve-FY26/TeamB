@@ -146,30 +146,6 @@
           "actions": [
             {
               "type": {
-                "value": "PrimitiveDrawing::Rectangle"
-              },
-              "parameters": [
-                "stamina_bar",
-                "Oliver_Player.PointX(\"Center\")",
-                "Oliver_Player.PointY(\"Center\")-70",
-                "Oliver_Player.PointX(\"Center\")+stamina",
-                "Oliver_Player.PointY(\"Center\")-60"
-              ]
-            },
-            {
-              "type": {
-                "value": "PrimitiveDrawing::Rectangle"
-              },
-              "parameters": [
-                "stamina_background",
-                "Oliver_Player.PointX(\"Center\")",
-                "Oliver_Player.PointY(\"Center\")-70",
-                "Oliver_Player.PointX(\"Center\")+100",
-                "Oliver_Player.PointY(\"Center\")-60"
-              ]
-            },
-            {
-              "type": {
                 "value": "SetZOrder"
               },
               "parameters": [

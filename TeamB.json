@@ -414,6 +414,38 @@
         "metadata": "{\"localFilePath\":\"assets/aaron.json\",\"extension\":\".json\"}",
         "name": "assets/aaron.json",
         "userAdded": false
+      },
+      {
+        "file": "NormalTree2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NormalTree2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "NormalTree3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NormalTree3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "NeonGreenTree2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NeonGreenTree2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite3",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -479,6 +511,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalLayouts/level_5"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/menu"
     }
   ]
 }

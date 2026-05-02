@@ -49,16 +49,6 @@
                 "",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "interacting_true",
-                "=",
-                "1"
-              ]
             }
           ]
         },
@@ -111,16 +101,6 @@
                 "",
                 "",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "interacting_true",
-                "=",
-                "1"
               ]
             }
           ]
