@@ -113,6 +113,11 @@
       "name": "slowed",
       "type": "boolean",
       "value": false
+    },
+    {
+      "name": "textscrollspeed",
+      "type": "number",
+      "value": 0
     }
   ],
   "instances": [
