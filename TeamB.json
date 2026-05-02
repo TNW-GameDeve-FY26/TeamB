@@ -344,7 +344,7 @@
         "file": "assets/NewTiledSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "NewTiledSprite3",
+        "name": "BlackTile",
         "smoothed": true,
         "userAdded": false
       },
@@ -352,7 +352,7 @@
         "file": "assets/NewSprite5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
+        "name": "Butch",
         "smoothed": true,
         "userAdded": false
       },
@@ -371,7 +371,7 @@
         "file": "assets/NewTiledSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite4.png\"}",
-        "name": "NewTiledSprite4",
+        "name": "BlueTile",
         "smoothed": true,
         "userAdded": false
       },
@@ -379,7 +379,7 @@
         "file": "assets/NewSprite6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite2",
+        "name": "CloudSprite",
         "smoothed": true,
         "userAdded": false
       },
@@ -387,7 +387,7 @@
         "file": "assets/NewSprite7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite7.png\"}",
-        "name": "NewSprite3",
+        "name": "ButchHouse",
         "smoothed": true,
         "userAdded": false
       },
@@ -395,7 +395,7 @@
         "file": "assets/NewSprite8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite4",
+        "name": "ArronOutline",
         "smoothed": true,
         "userAdded": false
       },
@@ -403,7 +403,7 @@
         "file": "assets/NewSprite9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite5",
+        "name": "Arron",
         "smoothed": true,
         "userAdded": false
       },

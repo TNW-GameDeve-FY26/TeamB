@@ -709,7 +709,7 @@
       "assetStoreId": "",
       "height": 32,
       "name": "black_backdrop",
-      "texture": "NewTiledSprite3",
+      "texture": "BlackTile",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
       "variables": [],
@@ -737,7 +737,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite",
+                  "image": "Butch",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -824,7 +824,7 @@
       "assetStoreId": "",
       "height": 32,
       "name": "sky",
-      "texture": "NewTiledSprite4",
+      "texture": "BlueTile",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
       "variables": [],
@@ -852,7 +852,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite2",
+                  "image": "CloudSprite",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -913,7 +913,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite3",
+                  "image": "ButchHouse",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -974,7 +974,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite5",
+                  "image": "Arron",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
