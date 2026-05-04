@@ -432,6 +432,22 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "NewText",
+      "persistentUuid": "a00b1e53-6ff5-4788-8f79-cd75c21dda4e",
+      "width": 0,
+      "x": 64,
+      "y": 160,
+      "zOrder": 23,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "editionSettings": {
@@ -446,7 +462,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.246725869574063,
+    "zoomFactor": 0.5117784035210186,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
