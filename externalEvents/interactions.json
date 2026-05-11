@@ -40,14 +40,11 @@
           "subInstructions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "KeyFromTextPressed"
               },
               "parameters": [
-                "Oliver_Player",
-                "butch_house_",
                 "",
-                "",
-                ""
+                "\"k\""
               ]
             }
           ]
@@ -93,14 +90,11 @@
           "subInstructions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "KeyFromTextPressed"
               },
               "parameters": [
-                "Oliver_Player",
-                "aaron",
                 "",
-                "",
-                ""
+                "\"k\""
               ]
             }
           ]

@@ -2,17 +2,17 @@
 	{
 		"title": "Start",
 		"tags": "",
-		"body": "ahhhhhh wheres my mom \n[[ answer:your ok im not going to hurt you i was just seeing what all the noise was  |A]] |]]\n[[ answer:ahhhhhhhhh wut da blody ell are you scremin abut  |B]] |]]",
+		"body": "ahhhhhh wheres my mom \n[[ answer:your ok im not going to hurt you i was just seeing what all the noise was  |A]]\n[[ answer:ahhhhhhhhh wut da blody ell are you scremin abut  |B]]",
 		"position": {
-			"x": 347,
-			"y": 187
+			"x": 335,
+			"y": 184
 		},
 		"colorID": 0
 	},
 	{
 		"title": "A",
 		"tags": "",
-		"body": "oh snif well i didnt mean to disturb you i just  cant find my mom \n[[ answer: well im a bit lost just like your mother do you know where we are oh and whats your name mines oliver  |C]] |]]\n[[ answer: well i dont know what a mother but i will help you find them what was your name again mines oliver |C]] |]]",
+		"body": "oh snif well i didnt mean to disturb you i just  cant find my mom \n[[ answer: well im a bit lost just like your mother do you know where we are oh and whats your name mines oliver  |C]]\n[[ answer: well i dont know what a mother but i will help you find them what was your name again mines oliver |C]]",
 		"position": {
 			"x": -16,
 			"y": 452
@@ -22,7 +22,7 @@
 	{
 		"title": "B",
 		"tags": "",
-		"body": "what are snifil you saying \n[[ answer: well sorry for startling you and for the odd voice |F]] |]]\n[[ answer: ell im aying uo aint got none tofear wen it all come right round to my lil old self |F]] |]]",
+		"body": "what are snifil you saying \n[[ answer: well sorry for startling you and for the odd voice |F]]\n[[ answer: ell im aying uo aint got none tofear wen it all come right round to my lil old self |F]]",
 		"position": {
 			"x": 629,
 			"y": 478
