@@ -1,8 +1,8 @@
 {
   "b": 255,
   "disableInputWhenNotFocused": true,
-  "mangledName": "main_32menu",
-  "name": "main menu",
+  "mangledName": "Dialogue",
+  "name": "Dialogue",
   "r": 247,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -20,88 +20,19 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.546875,
+    "zoomFactor": 0.9264677851328066,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
   },
   "objectsGroups": [],
   "variables": [],
-  "instances": [
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "BlackDecoratedButton",
-      "persistentUuid": "f6d9b1b4-7205-4a48-9031-43451ab0402a",
-      "width": 0,
-      "x": 557,
-      "y": 306,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    }
-  ],
-  "objects": [
-    {
-      "assetStoreId": "5f0df6131c9646dcbe98798196db5b6d806eb25564f86d2e119a084d1e20bf74",
-      "name": "BlackDecoratedButton",
-      "persistentUuid": "a86e00a4-1033-4c5f-9ec1-747510a307d9",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variant": "Black Decorated Button",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "LeftPadding": 16,
-        "RightPadding": 16,
-        "PressedLabelOffsetY": 6,
-        "BottomPadding": 24,
-        "TopPadding": 20,
-        "HoveredFadeOutDuration": 0.25,
-        "LabelText": "Start Game :D"
-      }
-    }
-  ],
+  "instances": [],
+  "objects": [],
   "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "BlackDecoratedButton"
-      }
-    ]
+    "folderName": "__ROOT"
   },
-  "events": [
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
-          },
-          "parameters": [
-            "BlackDecoratedButton",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "PushScene"
-          },
-          "parameters": [
-            "",
-            "\"Main Scene\""
-          ]
-        }
-      ]
-    }
-  ],
+  "events": [],
   "layers": [
     {
       "ambientLightColorB": 200,
@@ -169,22 +100,5 @@
       ]
     }
   ],
-  "behaviorsSharedData": [
-    {
-      "name": "Effect",
-      "type": "EffectCapability::EffectBehavior"
-    },
-    {
-      "name": "Flippable",
-      "type": "FlippableCapability::FlippableBehavior"
-    },
-    {
-      "name": "Opacity",
-      "type": "OpacityCapability::OpacityBehavior"
-    },
-    {
-      "name": "Resizable",
-      "type": "ResizableCapability::ResizableBehavior"
-    }
-  ]
+  "behaviorsSharedData": []
 }

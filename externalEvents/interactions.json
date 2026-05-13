@@ -125,6 +125,15 @@
         },
         {
           "type": {
+            "value": "DialogueTree::LoadDialogueFromJsonFile"
+          },
+          "parameters": [
+            "",
+            "assets/aaron.json"
+          ]
+        },
+        {
+          "type": {
             "value": "Scene"
           },
           "parameters": [

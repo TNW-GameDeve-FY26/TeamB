@@ -446,11 +446,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-<<<<<<< HEAD
-    "zoomFactor": 0.246725869574063,
-=======
-    "zoomFactor": 0.5117784035210186,
->>>>>>> parent of f0150be (Partially fixed the aaron extra brackets)
+    "zoomFactor": 0.8700232859857308,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
