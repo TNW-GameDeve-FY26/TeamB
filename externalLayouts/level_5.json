@@ -1,22 +1,6 @@
 {
-  "associatedLayout": "Main Scene",
+  "associatedLayout": "",
   "name": "level_5",
   "instances": [],
-  "editionSettings": {
-    "grid": false,
-    "gridType": "rectangular",
-    "gridWidth": 32,
-    "gridHeight": 32,
-    "gridDepth": 32,
-    "gridOffsetX": 0,
-    "gridOffsetY": 0,
-    "gridOffsetZ": 0,
-    "gridColor": 10401023,
-    "gridAlpha": 0.8,
-    "snap": false,
-    "zoomFactor": 0.7130377630690395,
-    "windowMask": false,
-    "selectedLayer": "",
-    "gameEditorMode": "instances-editor"
-  }
+  "editionSettings": {}
 }
