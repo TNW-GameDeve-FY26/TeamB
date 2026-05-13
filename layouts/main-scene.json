@@ -20,90 +20,12 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.7876290101674168,
+    "zoomFactor": 0.29122588669112637,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
   },
-  "objectsGroups": [
-    {
-      "name": "all",
-      "objects": [
-        {
-          "name": "DontForget"
-        },
-        {
-          "name": "stamina_background"
-        },
-        {
-          "name": "Dialogue"
-        },
-        {
-          "name": "options"
-        },
-        {
-          "name": "black_backdrop"
-        },
-        {
-          "name": "butch"
-        },
-        {
-          "name": "secret_butch"
-        },
-        {
-          "name": "sky"
-        },
-        {
-          "name": "cloud_"
-        },
-        {
-          "name": "butch_house_"
-        },
-        {
-          "name": "aaron"
-        },
-        {
-          "name": "TreeSprite1"
-        },
-        {
-          "name": "GreenTree"
-        },
-        {
-          "name": "BoundarySprite"
-        },
-        {
-          "name": "NewText"
-        },
-        {
-          "name": "BlackDecoratedButton"
-        },
-        {
-          "name": "stamina_bar"
-        },
-        {
-          "name": "test"
-        },
-        {
-          "name": "Oliver_Player"
-        },
-        {
-          "name": "path"
-        },
-        {
-          "name": "grass"
-        },
-        {
-          "name": "TreeObject1"
-        },
-        {
-          "name": "SSD"
-        },
-        {
-          "name": "RockObject"
-        }
-      ]
-    }
-  ],
+  "objectsGroups": [],
   "variables": [
     {
       "name": "interacting_true",
@@ -1229,68 +1151,6 @@
       "variables": [],
       "effects": [],
       "behaviors": []
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "NewText",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "Press \"U\" to restart",
-      "font": "",
-      "textAlignment": "left",
-      "characterSize": 20,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "Press \"U\" to restart",
-        "font": "",
-        "textAlignment": "left",
-        "verticalTextAlignment": "top",
-        "characterSize": 20,
-        "lineHeight": 0,
-        "color": "0;0;0"
-      }
-    },
-    {
-      "assetStoreId": "5f0df6131c9646dcbe98798196db5b6d806eb25564f86d2e119a084d1e20bf74",
-      "name": "BlackDecoratedButton",
-      "persistentUuid": "162cf475-8b4f-493f-a8a9-e311c30c8361",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variant": "Black Decorated Button",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "LeftPadding": 16,
-        "RightPadding": 16,
-        "PressedLabelOffsetY": 6,
-        "BottomPadding": 24,
-        "TopPadding": 20,
-        "HoveredFadeOutDuration": 0.25,
-        "LabelText": "Start game :D"
-      }
     }
   ],
   "objectsFolderStructure": {
@@ -1361,12 +1221,6 @@
       },
       {
         "objectName": "GreenTree"
-      },
-      {
-        "objectName": "NewText"
-      },
-      {
-        "objectName": "BlackDecoratedButton"
       }
     ]
   },
@@ -1403,71 +1257,6 @@
         "includeConfig": 0
       },
       "target": "interactions"
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "KeyFromTextPressed"
-          },
-          "parameters": [
-            "",
-            "\"u\""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Delete"
-          },
-          "parameters": [
-            "all",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
-          },
-          "parameters": [
-            "",
-            "\"Menu\"",
-            "",
-            "",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
-          },
-          "parameters": [
-            "BlackDecoratedButton",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
-          },
-          "parameters": [
-            "",
-            "\"level_1\"",
-            "",
-            "",
-            ""
-          ]
-        }
-      ]
     }
   ],
   "layers": [
