@@ -465,6 +465,13 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/main-scene"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/main-menu"
+>>>>>>> parent of f0150be (Partially fixed the aaron extra brackets)
     }
   ],
   "externalEvents": [
