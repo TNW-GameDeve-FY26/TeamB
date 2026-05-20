@@ -49,16 +49,6 @@
                 "",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "interacting_true",
-                "=",
-                "1"
-              ]
             }
           ]
         },
@@ -112,16 +102,6 @@
                 "",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "NumberVariable"
-              },
-              "parameters": [
-                "interacting_true",
-                "=",
-                "1"
-              ]
             }
           ]
         },
@@ -141,6 +121,15 @@
             "level_num",
             "=",
             "4"
+          ]
+        },
+        {
+          "type": {
+            "value": "DialogueTree::LoadDialogueFromJsonFile"
+          },
+          "parameters": [
+            "",
+            "assets/aaron.json"
           ]
         },
         {
