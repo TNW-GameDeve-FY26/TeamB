@@ -27,6 +27,12 @@
       "actions": [
         {
           "type": {
+            "value": "DialogueTree::StopRunningDialogue"
+          },
+          "parameters": []
+        },
+        {
+          "type": {
             "value": "DialogueTree::LoadDialogueFromJsonFile"
           },
           "parameters": [
@@ -59,6 +65,12 @@
         }
       ],
       "actions": [
+        {
+          "type": {
+            "value": "DialogueTree::StopRunningDialogue"
+          },
+          "parameters": []
+        },
         {
           "type": {
             "value": "DialogueTree::LoadDialogueFromJsonFile"
@@ -97,6 +109,28 @@
           },
           "parameters": [
             "Dialogue"
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "Dialogue",
+            "Text",
+            "=",
+            "\"\""
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "options",
+            "Text",
+            "=",
+            "\"\""
           ]
         }
       ]
@@ -205,6 +239,86 @@
               "parameters": [
                 "",
                 "\"scrolltext\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::CurrentBranchTitle"
+              },
+              "parameters": [
+                "\"end\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "level_num",
+                "=",
+                "4"
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyFromTextReleased"
+              },
+              "parameters": [
+                "",
+                "\"Space\""
+              ]
+            },
+            {
+              "type": {
+                "value": "DialogueTree::HasClippedTextScrollingCompleted"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DialogueTree::GoToNextLine"
+              },
+              "parameters": []
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "level_num",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Main Scene\"",
+                ""
               ]
             }
           ]
@@ -337,6 +451,17 @@
             "options",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "options",
+            "Text",
+            "=",
+            "DialogueTree::VerticalOptionsList(\"->\")"
+          ]
         }
       ],
       "events": [
@@ -434,19 +559,7 @@
               "parameters": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "options",
-                "Text",
-                "=",
-                "DialogueTree::VerticalOptionsList(\"-> \")"
-              ]
-            }
-          ]
+          "actions": []
         }
       ]
     },
@@ -516,6 +629,7 @@
       ]
     },
     {
+      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -557,7 +671,25 @@
           "parameters": [
             "level_num",
             "=",
-            "5"
+            "3"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "2"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Main Scene\"",
+            ""
           ]
         }
       ]

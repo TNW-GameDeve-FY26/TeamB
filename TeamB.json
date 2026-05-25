@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 269,
+    "build": 266,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -18,7 +18,6 @@
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
-    "useDeprecatedZeroAsDefaultStringVariable": true,
     "version": "1.0.0",
     "name": "TeamB",
     "description": "",
