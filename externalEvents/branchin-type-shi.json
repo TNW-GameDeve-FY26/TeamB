@@ -251,7 +251,7 @@
                 "value": "DialogueTree::CurrentBranchTitle"
               },
               "parameters": [
-                "\"end\""
+                "\"CreditRoll\""
               ]
             },
             {
@@ -289,35 +289,11 @@
           "actions": [
             {
               "type": {
-                "value": "DialogueTree::GoToNextLine"
-              },
-              "parameters": []
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "level_num",
-                "=",
-                "3"
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "2"
-              ]
-            },
-            {
-              "type": {
                 "value": "Scene"
               },
               "parameters": [
                 "",
-                "\"Main Scene\"",
+                "\"Credits\"",
                 ""
               ]
             }
@@ -629,7 +605,6 @@
       ]
     },
     {
-      "disabled": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -637,14 +612,6 @@
             "value": "DialogueTree::HasClippedTextScrollingCompleted"
           },
           "parameters": []
-        },
-        {
-          "type": {
-            "value": "DialogueTree::WasBranchVisited"
-          },
-          "parameters": [
-            "\"end\""
-          ]
         },
         {
           "type": {
@@ -658,37 +625,21 @@
         },
         {
           "type": {
-            "value": "BuiltinCommonInstructions::Once"
+            "value": "DialogueTree::WasBranchVisited"
           },
-          "parameters": []
+          "parameters": [
+            "\"CreditRoll\""
+          ]
         }
       ],
       "actions": [
-        {
-          "type": {
-            "value": "SetNumberVariable"
-          },
-          "parameters": [
-            "level_num",
-            "=",
-            "3"
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "2"
-          ]
-        },
         {
           "type": {
             "value": "Scene"
           },
           "parameters": [
             "",
-            "\"Main Scene\"",
+            "\"Credits\"",
             ""
           ]
         }
